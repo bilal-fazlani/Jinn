@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jinn.Core", "Jinn.Core\Jinn.Core.csproj", "{36970846-02D2-480B-92E0-83E6743A525C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jinn.Core.Tests", "Jinn.Core.Tests\Jinn.Core.Tests.csproj", "{76A39D8E-5A4A-4C4B-BD50-E1D4CC598309}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{15B00255-42D5-4C90-99D8-C14726763982}"
+ProjectSection(SolutionItems) = preProject
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36970846-02D2-480B-92E0-83E6743A525C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36970846-02D2-480B-92E0-83E6743A525C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36970846-02D2-480B-92E0-83E6743A525C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36970846-02D2-480B-92E0-83E6743A525C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A39D8E-5A4A-4C4B-BD50-E1D4CC598309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A39D8E-5A4A-4C4B-BD50-E1D4CC598309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A39D8E-5A4A-4C4B-BD50-E1D4CC598309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A39D8E-5A4A-4C4B-BD50-E1D4CC598309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
